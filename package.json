@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-google-analytics",
+  "name": "cordova-plugin-google-analytics-SSG",
   "version": "0.8.1",
   "description": "Google Universal Analytics Plugin",
   "cordova": {
-    "id": "cordova-plugin-google-analytics",
+    "id": "cordova-plugin-google-analytics-SSG",
     "platforms": [
       "android",
       "ios"
