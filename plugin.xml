@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cordova-plugin-google-analytics"
-    version="0.8.1">
+    id="cordova-plugin-google-analytics-SSG"
+    version="1.0">
   <engines>
     <engine name="cordova" version=">=3.0.0" />
   </engines>
@@ -43,7 +43,6 @@
   </platform>
 
   <platform name="android">
-    <framework src="com.google.android.gms:play-services-analytics:+" />
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="UniversalAnalytics">
